@@ -1,2 +1,6 @@
 # javarush.systax
-My java learning journey
+My Java learning journey
+
+https://javarush.com/ua/quests
+My Java learning progress/problem solving
+
